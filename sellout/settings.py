@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-=54f^mvtqdi2h&*9ofszblhx63*_(0*$v)%p_)idyw6)m-ogd#
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost','https://aiwizard47.github.io/Sellout/']
+ALLOWED_HOSTS = ['localhost','sellout-one.vercel.app']
 
 
 # Application definition
